@@ -8,7 +8,7 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 É possível acessar a página a partir do botão a seguir.
 
-[![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://tictactoe-maiconda.netlify.app/)
+[![Blog](https://img.shields.io/badge/Tic_Tac_Toe-JS-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://tictactoe-maiconda.netlify.app/)
 
 ## Layout Desktop
 <img src="img/tictactoe1.PNG" width="700px"/>
