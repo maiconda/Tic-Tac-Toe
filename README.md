@@ -10,7 +10,7 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 [![Blog](https://img.shields.io/badge/Tic_Tac_Toe-JS-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tictactoe-maiconda.netlify.app/)
 
-## Layout Desktop
+## Layout
 <img src="img/tictactoe1.PNG" width="700px"/>
 <img src="img/tictactoe2.PNG" width="700px"/>
 <img src="img/tictactoe3.PNG" width="700px"/>
