@@ -14,6 +14,7 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 <img src="img/tictactoe1.PNG" width="700px"/>
 <img src="img/tictactoe2.PNG" width="700px"/>
 <img src="img/tictactoe3.PNG" width="700px"/>
+<img src="img/tictactoe5.PNG" width="700px"/>
 <img src="img/tictactoe4.PNG" width="700px"/>
 
 ## Tecnologias utilizadas
