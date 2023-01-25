@@ -8,17 +8,13 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 É possível acessar a página a partir do botão a seguir.
 
-[![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliomaicon.netlify.app/)
-
-## Layout Mobile
-<img src="img/MOBILE1.PNG" width="250px"/><img src="img/MOBILE2.PNG" width="250px"/><img src="img/MOBILE3.PNG" width="250px"/><img src="img/MOBILE4.PNG" width="250px"/><img src="img/MOBILE5.PNG" width="250px"/><img src="img/MOBILE6.PNG" width="250px"/>
+[![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://tictactoe-maiconda.netlify.app/)
 
 ## Layout Desktop
-<img src="img/DESKTOP1.PNG" width="700px"/>
-<img src="img/DESKTOP2.PNG" width="700px"/>
-<img src="img/DESKTOP3.PNG" width="700px"/>
-<img src="img/DESKTOP4.PNG" width="700px"/>
-<img src="img/DESKTOP5.PNG" width="700px"/>
+<img src="img/tictactoe1.PNG" width="700px"/>
+<img src="img/tictactoe2.PNG" width="700px"/>
+<img src="img/tictactoe3.PNG" width="700px"/>
+<img src="img/tictactoe4.PNG" width="700px"/>
 
 ## Tecnologias utilizadas
 
@@ -33,11 +29,7 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 ### Ferramentas Externas
 
-◾ ScrollRevealjs.org
-
-◾️ vincentgarreau.com/particles.js
-
-◾️ FormSubmit.co
+◾️ micku7zu.github.io/vanilla-tilt.js
 
 ## Autor
 
