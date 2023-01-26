@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-O projeto em questão se trata de um portfólio em formato de WebSite, com o objetivo de apresentar meu trabalho como desenvolvedor Front-End, contendo alguns projetos desenvolvidos, experiências profissionais e habilidades na área da tecnologia. 
+O projeto em questão se trata de um jogo da velha (tic-tac-toe), desenvolvido com o objetivo de botar em prática minhas habilidades com o desenvolvimentos Front-End e conceitos importantes na lógica de programação. 
 
 É possível acessar a página a partir do botão a seguir.
 
